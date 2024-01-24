@@ -1,0 +1,17 @@
+
+/* Counter.css */
+.counter {
+    text-align: center;
+    margin: 20px;
+   
+  }
+  
+  button {
+    font-size: 16px;
+    margin: 0 10px;
+    padding: 8px 16px;
+    cursor: pointer;
+    color: rgb(33, 7, 233);
+   
+  }
+  
